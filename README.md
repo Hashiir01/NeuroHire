@@ -1,4 +1,4 @@
-# 🎤 Resume ↔ AI Voice Interview
+# NeuroHire
 
 An AI-powered application that performs intelligent resume screening and conducts interactive voice interviews using Streamlit, OpenAI APIs, and speech recognition.
 
@@ -8,13 +8,14 @@ An AI-powered application that performs intelligent resume screening and conduct
 
 - [Features](#features)
 - [Project Structure](#project-structure)
+- [Usage Guide](#usage-guide)
+- [Application Workflow](#application-workflow)
+- [Troubleshooting](#troubleshooting)
 - [Prerequisites](#prerequisites)
 - [Installation & Setup](#installation--setup)
 - [Configuration](#configuration)
 - [Voice Features & Faster-Whisper](#voice-features--faster-whisper)
-- [Usage Guide](#usage-guide)
-- [Application Workflow](#application-workflow)
-- [Troubleshooting](#troubleshooting)
+
 
 ---
 
@@ -542,21 +543,5 @@ For issues or contributions:
 
 ## 📄 License
 
-[Your License Here]
-
----
-
-## 🎯 Next Steps
-
-- Customize interview questions in `voice/voice_interview_manager.py`
-- Adjust eligibility thresholds in `modules/eligibility_manager.py`
-- Fine-tune Whisper model selection based on accuracy needs
-- Add database integration for candidate history
-- Deploy to Streamlit Cloud or self-hosted server
-
----
-
-**Last Updated**: 2024
-**Version**: 1.0.0
-
+License FIle Added
 
